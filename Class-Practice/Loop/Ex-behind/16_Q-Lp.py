@@ -2,7 +2,7 @@ number = input("Enter your string: ")
 digit_sum = 0  # Initialize the sum
 
 # Print the original number
-print(f"Original string: '{number}'")
+print(f"\nOriginal string: '{number}'\n")
 
 # Use a list to keep track of the digits found
 digits_found = []
